@@ -1,0 +1,66 @@
+.main1{
+    width: 1500px;
+    height: 750px;
+    background-color: aqua;
+}
+/* #line1{
+    width: 1500px;
+    height: 115px;
+} */
+/* #line2{
+    width: 446px;
+    height: 380px;
+    float: left;
+} */
+.main{
+    width: 580px;
+    height: 380px;
+    margin-top: 95px;
+    margin-left: 450px;
+    border: 1px solid rgb(118, 118, 118);
+    /* background: url('rungta image.jpg') no-repeat ; */
+    background-position: top right;
+    /* box-shadow : x-axis | y-axis | blur | range | color */
+    box-shadow: 0px 0px 10px 5px rgb(155, 154, 154);
+}
+/* Here we had used margin tag for the movement of text but keep in mind their size ratio */
+#row2{
+    width: 608px;
+    height: 100px;
+}
+#wel{
+    width: 333px;
+    height: 100px;
+    float: left;
+    color:rgb(21, 21, 121);
+    margin-top: 15px;
+}
+.img{
+    width: 250px;
+    height: 100px;
+    float: left;
+}
+#row3{
+    width: auto;
+    height: 20px;
+    color: green;
+    padding-top: 10px;
+    font-weight: 30px;
+}
+#row4{
+    width: auto;
+    height: 100px;
+}
+#form{
+    width: 270px;
+    height: 100px;
+    float: left;
+    margin-left: 45px;
+}
+#value{
+    width: auto;
+    height: 30px;
+    float: left;
+    margin-left: 45px;
+
+}
